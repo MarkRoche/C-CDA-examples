@@ -1,0 +1,6 @@
+total 15216
+drwxr-xr-x   5 markroche  staff      170 Jan 18 10:25 .
+drwxr-xr-x   3 markroche  staff      102 Jan 18 10:18 ..
+drwxr-xr-x  15 markroche  staff      510 Jan 18 10:28 .git
+-rw-r--r--   1 markroche  staff  7787038 Jan 18 10:19 EMERGE C-CDA.zip
+-rw-r--r--   1 markroche  staff        0 Jan 18 10:31 deleteme.txt
